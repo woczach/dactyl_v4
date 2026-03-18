@@ -47,51 +47,31 @@ Design references used for this build:
 
 Prices below reflect the sourced parts actually purchased for this build. Items not covered by that list are left blank.
 
-### Keys and switches
+| Category | Item | Qty | Notes | Total |
+| --- | --- | ---: | --- | ---: |
+| Keys and switches | Womier Retro Brown Gray PBT keycap set | 1 | 138-key Cherry-profile set | 51.39 PLN |
+| Keys and switches | PBTfans Doppelganger 40s kit | 1 | Child kit, 40s | 77.19 PLN |
+| Keys and switches | MX-compatible switches | 90 | Outemu Silent Cream Yellow Pro, bought as one 90-pack | 71.19 PLN |
+| Keys and switches | 1N4148 diodes | 100 | 1N4148W T4 SOD-123, bought as one 100-pack | 5.72 PLN |
+| Pointing device and mechanical parts | 34 mm trackball | 1 | GBALL34RN, purple | 47.79 PLN |
+| Pointing device and mechanical parts | PMW3360 or PMW3389 sensor | 1 | PMW3389 module | 69.19 PLN |
+| Pointing device and mechanical parts | 3 x 6 x 2.5 mm bearings | 5 | Bought as one 5-pack | 9.41 PLN |
+| Pointing device and mechanical parts | 3 x 8 mm dowel pins | 10 | M3, bought as one 10-pack | 4.90 PLN |
+| Pointing device and mechanical parts | Tindie-supported PCB for sensor assembly | 1 | Use a compatible board as required by the sensor setup |  |
+| Electrical | RP2040 Black Board USB-C | 2 | Aliexpress boards |  |
+| Electrical | PJ-320A TRRS connectors | 10 | Bought as one 10-pack | 6.29 PLN |
+| Electrical | TRRS cable | 1 | 3.5 mm TRRS spring coiled cable, 90-degree male-to-male | 13.99 PLN |
+| Electrical | Flexible PCB fabrication | 1 | Main flex PCB, converted from 30 USD | 110.61 PLN |
+| Electrical | Extra PCB fabrication | 1 | Auxiliary PCB, converted from 2 USD | 7.37 PLN |
+| Electrical | Kailh hot-swap sockets | 3 | 40-piece packs, CPG1511 | 45.03 PLN |
+| Electrical | SK6812MINI-E LEDs | 1 | 100-piece lot | 34.89 PLN |
+| Electrical | Wire-wrap or magnet wire spool | 1 | Internal wiring |  |
+| Mounting | M3 x 6 mm flat head screws | 18 | Bottom plate and microcontroller holder |  |
+| Mounting | M3 x 8 mm flat head screws | 2 | Microcontroller holder through bottom plate |  |
+| Mounting | M3 screw inserts | 20 | Heat-set or press-fit, depending on print and process |  |
+| Other parts | 3D print service | 1 | Case and related printed parts | 100.00 PLN |
 
-| Item | Qty | Notes | Unit Price | Total |
-| --- | ---: | --- | ---: | ---: |
-| Womier Retro Brown Gray PBT keycap set | 1 | 138-key Cherry-profile set | 51.39 PLN | 51.39 PLN |
-| PBTfans Doppelganger 40s kit | 1 | Child kit, 40s | 77.19 PLN | 77.19 PLN |
-| MX-compatible switches | 90 | Outemu Silent Cream Yellow Pro, bought as one 90-pack | 71.19 PLN | 71.19 PLN |
-| 1N4148 diodes | 100 | 1N4148W T4 SOD-123, bought as one 100-pack | 5.72 PLN | 5.72 PLN |
-
-### Pointing device and mechanical parts
-
-| Item | Qty | Notes | Unit Price | Total |
-| --- | ---: | --- | ---: | ---: |
-| 34 mm trackball | 1 | GBALL34RN, purple | 47.79 PLN | 47.79 PLN |
-| PMW3360 or PMW3389 sensor | 1 | PMW3389 module | 69.19 PLN | 69.19 PLN |
-| 3 x 6 x 2.5 mm bearings | 5 | Bought as one 5-pack | 9.41 PLN | 9.41 PLN |
-| 3 x 8 mm dowel pins | 10 | M3, bought as one 10-pack | 4.90 PLN | 4.90 PLN |
-| Tindie-supported PCB for sensor assembly | 1 | Use a compatible board as required by the sensor setup |  |  |
-
-### Electrical
-
-| Item | Qty | Notes | Unit Price | Total |
-| --- | ---: | --- | ---: | ---: |
-| RP2040 Black Board USB-C | 2 | Aliexpress boards |  |  |
-| PJ-320A TRRS connectors | 10 | Bought as one 10-pack | 6.29 PLN | 6.29 PLN |
-| TRRS cable | 1 | 3.5 mm TRRS spring coiled cable, 90-degree male-to-male | 13.99 PLN | 13.99 PLN |
-| Flexible PCB fabrication | 1 | Main flex PCB, converted from 30 USD | 110.61 PLN | 110.61 PLN |
-| Extra PCB fabrication | 1 | Auxiliary PCB, converted from 2 USD | 7.37 PLN | 7.37 PLN |
-| Kailh hot-swap sockets | 3 | 40-piece packs, CPG1511 | 15.01 PLN | 45.03 PLN |
-| SK6812MINI-E LEDs | 1 | 100-piece lot | 34.89 PLN | 34.89 PLN |
-| Wire-wrap or magnet wire spool | 1 | Internal wiring |  |  |
-
-### Mounting
-
-| Item | Qty | Notes | Unit Price | Total |
-| --- | ---: | --- | ---: | ---: |
-| M3 x 6 mm flat head screws | 18 | Bottom plate and microcontroller holder |  |  |
-| M3 x 8 mm flat head screws | 2 | Microcontroller holder through bottom plate |  |  |
-| M3 screw inserts | 20 | Heat-set or press-fit, depending on print and process |  |  |
-
-### Other parts
-
-| Item | Qty | Notes | Unit Price | Total |
-| --- | ---: | --- | ---: | ---: |
-| 3D print service | 1 | Case and related printed parts | 100.00 PLN | 100.00 PLN |
+**Summary price:** 654.96 PLN
 
 ## Attribution
 
