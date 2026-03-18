@@ -45,27 +45,25 @@ Design references used for this build:
 
 ## Bill of Materials
 
-Prices are intentionally left blank so they can be filled in later.
+Prices below reflect the sourced parts actually purchased for this build. Items not covered by that list are left blank.
 
 ### Keys and switches
 
 | Item | Qty | Notes | Unit Price | Total |
 | --- | ---: | --- | ---: | ---: |
-| XDA keycaps, 1u | 69 | Main alpha and modifier coverage |  |  |
-| XDA keycaps, 1.25u | 1 | Single 1.25u key |  |  |
-| XDA keycaps, 1.5u | 3 | Thumb / modifier keys |  |  |
-| XDA keycaps, 2u | 7 | Larger thumb / special keys |  |  |
-| MX-compatible switches | 80 | Switches for full build |  |  |
-| 1N4148 diodes | 80 | One per switch position |  |  |
+| Womier Retro Brown Gray PBT keycap set | 1 | 138-key Cherry-profile set | 51.39 PLN | 51.39 PLN |
+| PBTfans Doppelganger 40s kit | 1 | Child kit, 40s | 77.19 PLN | 77.19 PLN |
+| MX-compatible switches | 90 | Outemu Silent Cream Yellow Pro, bought as one 90-pack | 71.19 PLN | 71.19 PLN |
+| 1N4148 diodes | 100 | 1N4148W T4 SOD-123, bought as one 100-pack | 5.72 PLN | 5.72 PLN |
 
 ### Pointing device and mechanical parts
 
 | Item | Qty | Notes | Unit Price | Total |
 | --- | ---: | --- | ---: | ---: |
-| 34 mm trackball | 1 | Main pointing device |  |  |
-| PMW3360 or PMW3389 sensor | 1 | Trackball sensor |  |  |
-| 3 x 6 x 2.5 mm bearings | 3 | Trackball support |  |  |
-| 3 x 8 mm dowel pins | 3 | Trackball support alignment |  |  |
+| 34 mm trackball | 1 | GBALL34RN, purple | 47.79 PLN | 47.79 PLN |
+| PMW3360 or PMW3389 sensor | 1 | PMW3389 module | 69.19 PLN | 69.19 PLN |
+| 3 x 6 x 2.5 mm bearings | 5 | Bought as one 5-pack | 9.41 PLN | 9.41 PLN |
+| 3 x 8 mm dowel pins | 10 | M3, bought as one 10-pack | 4.90 PLN | 4.90 PLN |
 | Tindie-supported PCB for sensor assembly | 1 | Use a compatible board as required by the sensor setup |  |  |
 
 ### Electrical
@@ -73,8 +71,12 @@ Prices are intentionally left blank so they can be filled in later.
 | Item | Qty | Notes | Unit Price | Total |
 | --- | ---: | --- | ---: | ---: |
 | RP2040 Black Board USB-C | 2 | Aliexpress boards |  |  |
-| PJ-320A TRRS connectors | 2 | One per half |  |  |
-| TRRS cable | 1 | Interconnect cable between halves |  |  |
+| PJ-320A TRRS connectors | 10 | Bought as one 10-pack | 6.29 PLN | 6.29 PLN |
+| TRRS cable | 1 | 3.5 mm TRRS spring coiled cable, 90-degree male-to-male | 13.99 PLN | 13.99 PLN |
+| Flexible PCB fabrication | 1 | Main flex PCB, converted from 30 USD | 110.61 PLN | 110.61 PLN |
+| Extra PCB fabrication | 1 | Auxiliary PCB, converted from 2 USD | 7.37 PLN | 7.37 PLN |
+| Kailh hot-swap sockets | 3 | 40-piece packs, CPG1511 | 15.01 PLN | 45.03 PLN |
+| SK6812MINI-E LEDs | 1 | 100-piece lot | 34.89 PLN | 34.89 PLN |
 | Wire-wrap or magnet wire spool | 1 | Internal wiring |  |  |
 
 ### Mounting
@@ -87,11 +89,9 @@ Prices are intentionally left blank so they can be filled in later.
 
 ### Other parts
 
-Add any remaining miscellaneous parts, consumables, or print-material costs here.
-
 | Item | Qty | Notes | Unit Price | Total |
 | --- | ---: | --- | ---: | ---: |
-| TBD |  |  |  |  |
+| 3D print service | 1 | Case and related printed parts | 100.00 PLN | 100.00 PLN |
 
 ## Attribution
 
